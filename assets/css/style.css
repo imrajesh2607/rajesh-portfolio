@@ -779,7 +779,7 @@ textarea.contact-input {
 
   .elem-2 {
     bottom: 30px;
-    right: -190px;
+    right: -120px;
   }
 
   .elem-2 .elem-title {
@@ -799,8 +799,8 @@ textarea.contact-input {
   }
 
   .elem-3 {
-    top: -40px;
-    right: -150px;
+    top: -20px;
+    right: -120px;
   }
 
   .elem-3 ion-icon {
@@ -834,8 +834,8 @@ textarea.contact-input {
   }
 
   .abs-img {
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     object-fit: cover;
     border-radius: inherit;
     bottom: -150px;
